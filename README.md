@@ -1,4 +1,4 @@
-# PrivacyPolicy for the App (Demo) on the Quest App Lab store
+# Privacy Policy for the App (Demo) on the Quest App Lab store
 
 # (Demo) PrivacyPolicy - Alto Interactive
 
@@ -19,9 +19,9 @@ For the purposes of this Privacy Policy:
 
 - Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-- Application means the software program provided by the Company downloaded by You on any electronic device, named GunWorld VR
+- Application means the software program provided by the Company downloaded by You on any electronic device, named (Demo)
 
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to GunWorld VR.
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to (Demo).
 
 - Country refers to: USA
 
